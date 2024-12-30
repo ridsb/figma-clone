@@ -4,6 +4,12 @@
 
 A minimalistic Figma clone designed to showcase real-world features such as live collaboration, multi-cursors, chat functionality, reactions, and design tools like shapes, image uploads, and freeform drawing using **fabric.js**.
 
+![image](https://github.com/user-attachments/assets/11b698f3-3b75-4720-81af-db5e77692ddd)
+
+![image](https://github.com/user-attachments/assets/29786e8b-68a5-424b-99dc-1b05cc64c070)
+
+![image](https://github.com/user-attachments/assets/50fc4af4-7170-4f96-845a-c576504b5897)
+
 ## Tech Stack
 
 - **Next.js**
